@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hello There 🤙,I am Dibyanshu Mohanty </h1>
 
-<!--
-**dibyanshu-mohanty/dibyanshu-mohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://www.digitalmarketinginstitutes.in/wp-content/uploads/2019/03/Web-Development-Service-Banner.jpg)
+
+
+<p align="center"> Hi, I am an Undergraduate Student from VIT , Vellore pursuing Btech in Electronics And Instrumentation Engineering. I am a keen and enthusiastic learner, skilled in Web Development. Interests: App Development and Blockchain. </p>
+
+<h3> Skills: HTML, CSS, Django, Bootstrap, Python(Language), Javascript</h3>
+
+<h3> College: Vellore Institute of Technology, Vellore </h3> <br />
+
+<h2 align="left"> What I am Doing? </h2>
+
+<h3>🚧 I’m currently working on Flutter Dev</h3>
+
+<h3>🗡️ Look At My this Project https://dibyanshu-mohanty.github.io/Payment-Gateway/</h3>
+
+<h3>📑 I'm Currently Learning Flutter</h3>
+
+<h3>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website https://dibyanshu-mohanty.github.io/Portfolio/</h3>
+
+<h3>🏅 My Favourite Hobby Learning and Exploring</h3>
+
+
+<h2 align="center">Connect Me In</h2>
+
+<a href="" target="black" alt=https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyanshu-mohanty&show_icons=true&locale=en&layout=compact" alt="dibyanshu-mohanty" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dibyanshu-mohanty&show_icons=true&locale=en" alt="dibyanshu-mohanty" ></p>
