@@ -27,7 +27,7 @@
 
 <h2 align="center">Connect Me In</h2>
 
-<a href="" target="black" alt=https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
+<a href="" target="_blank" alt=https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyanshu-mohanty&show_icons=true&locale=en&layout=compact" alt="dibyanshu-mohanty" > </p>
 
