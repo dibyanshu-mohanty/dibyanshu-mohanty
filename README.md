@@ -27,7 +27,7 @@
 
 <h2 align="center">Connect Me In</h2>
 
-<a href="" target="_blank" alt=https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8/> <img src= '![image](https://user-images.githubusercontent.com/72657275/118368764-2a1faf80-b5c0-11eb-959b-e6f177a6b758.png)' height="30" width="40" /> </a>
+<a href="" target="_blank" alt=https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8/><div>Icons made by <a href="https://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> </a>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyanshu-mohanty&show_icons=true&locale=en&layout=compact" alt="dibyanshu-mohanty" > </p>
 
