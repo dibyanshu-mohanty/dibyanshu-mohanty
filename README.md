@@ -16,8 +16,6 @@
 
 <h3>🚧 I’m currently working on Flutter Dev</h3>
 
-<h3>🗡️ Look At My this Project https://dibyanshu-mohanty.github.io/Payment-Gateway/</h3>
-
 <h3>📑 I'm Currently Learning Flutter</h3>
 
 <h3>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website https://dibyanshu-mohanty.github.io/Portfolio/</h3>
