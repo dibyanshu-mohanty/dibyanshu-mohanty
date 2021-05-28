@@ -31,4 +31,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dibyanshu-mohanty&show_icons=true&locale=en" alt="dibyanshu-mohanty" ></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/dibyanshu-mohanty/count.svg)
