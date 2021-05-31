@@ -1,7 +1,9 @@
 <h1 align="center">Hello There 🤙,I am Dibyanshu Mohanty </h1>
 
 <h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 | Flutter 📱 </h3>
+
 ![](https://technosoftacademy.io/wp-content/uploads/2018/08/web-developement-banner.png)
+
 <p align="center"> Hi, I am an Undergraduate Student from VIT , Vellore pursuing Btech in Electronics And Instrumentation Engineering. I am a keen and enthusiastic learner, skilled in Web Development. Interests: App Development and Blockchain. </p>
 
 <h3> Skills: HTML, CSS, Django, Bootstrap, Python(Language), Javascript</h3>
