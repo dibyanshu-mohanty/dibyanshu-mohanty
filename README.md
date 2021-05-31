@@ -27,8 +27,6 @@
 
 <a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyanshu-mohanty&show_icons=true&locale=en&layout=compact" alt="dibyanshu-mohanty" > </p>
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dibyanshu-mohanty&show_icons=true&locale=en" alt="dibyanshu-mohanty" ></p>
 
 ![](https://komarev.com/ghpvc/?username=dibyanshu-mohanty&color=green&label=PROFILE+VIEWS&color=blueviolet)
