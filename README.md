@@ -18,7 +18,7 @@
 
 <h3>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website https://dibyanshu-mohanty.github.io/Portfolio/</h3>
 
-<h3>🏅 My Favourite Hobby Learning and Exploring</h3>
+<h3>🏅 I love to build and implement Creative and Ideative projects</h3>
 
 
 <h2 align="center">Connect Me In</h2>
