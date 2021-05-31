@@ -27,9 +27,8 @@
 
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyanshu-mohanty&" alt="dibyanshu-mohanty" > </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu-mohanty)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=dibyanshu-mohanty&show_icons=true&theme=tokyonight)
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dibyanshu-mohanty&show_icons=true&locale=en" alt="dibyanshu-mohanty" ></p>
 
 ![](https://komarev.com/ghpvc/?username=dibyanshu-mohanty&color=green&label=PROFILE+VIEWS&color=blueviolet)
