@@ -14,8 +14,6 @@
 
 <h3>🚧 I’m currently working on Flutter Dev</h3>
 
-<h3>📑 I'm Currently Learning Flutter</h3>
-
 <h3>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website https://dibyanshu-mohanty.github.io/Portfolio/</h3>
 
 <h3>🏅 I love to build and implement Creative and Ideative projects</h3>
