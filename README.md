@@ -1,6 +1,6 @@
-<h1 align="center">Hello There 🤙,I am Dibyanshu Mohanty </h1>
+<h1 align="center">Hello There ⌨,I am Dibyanshu Mohanty </h1>
 
-<h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 | Flutter 📱 </h3>
+<h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 | Flutter Developer 📱 </h3>
 
 ![](https://technosoftacademy.io/wp-content/uploads/2018/08/web-developement-banner.png)
 
