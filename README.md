@@ -6,17 +6,17 @@
 
 <p align="center"> Hi, I am an Undergraduate Student from VIT , Vellore pursuing Btech in Electronics And Instrumentation Engineering. I am a keen and enthusiastic learner, skilled in Web Development. Interests: App Development and Blockchain. </p>
 
-<h3> Skills: HTML, CSS, Django, Bootstrap, Python(Language), Javascript, Flutter, Firebase, Postgresql</h3>
+<h3> Skills: HTML, CSS, Django, Bootstrap, Python(Language), Javascript, Flutter, Firebase, Postgresql, Android Studio</h3>
 
 <h3> College: Vellore Institute of Technology, Vellore </h3> <br />
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on Flutter Dev</h3>
+<h3👨‍💻 I’m currently working on Flutter Dev</h3>
 
-<h3>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website https://dibyanshu-mohanty.github.io/Portfolio/</h3>
+<h3💠 My Personal Website https://dibyanshu-mohanty.github.io/Portfolio/</h3>
 
-<h3>🏅 I love to build and implement Creative and Ideative projects</h3>
+<h3🆕🆒 I love to build and implement Creative and Ideative projects</h3>
 
 
 <h2 align="center">Connect Me In</h2>
