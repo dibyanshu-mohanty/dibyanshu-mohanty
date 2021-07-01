@@ -19,7 +19,7 @@
 <h3>🆕🆒 I love to build and implement Creative and Ideative projects</h3>
 
 
-<h2 align="center">Connect Me In</h2>
+<h2 align="center">Connect With Me On</h2>
 
 <a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height=50 width=50></a>
 <a href="https://ddevm.medium.com" target="_blank"><img src="https://cdn.freebiesupply.com/images/large/2x/medium-logo-white-on-black.png" height=50 width=50></a>
