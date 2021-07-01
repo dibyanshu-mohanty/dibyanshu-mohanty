@@ -21,8 +21,8 @@
 
 <h2 align="center">Connect Me In</h2>
 
-<a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
-<a href="https://ddevm.medium.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png"></a>
+<a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height=50 width=50></a>
+<a href="https://ddevm.medium.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" height=50 width=50></a>
 
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyanshu-mohanty&" alt="dibyanshu-mohanty" > </p>
 
