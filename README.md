@@ -24,8 +24,6 @@
 <a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height=50 width=50></a>
 <a href="https://ddevm.medium.com" target="_blank"><img src="https://cdn.freebiesupply.com/images/large/2x/medium-logo-white-on-black.png" height=50 width=50></a>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ddevm" data-color="#BD5FFF" data-emoji="🍕"  data-font="Bree" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyanshu-mohanty&" alt="dibyanshu-mohanty" > </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu-mohanty)](https://github.com/anuraghazra/github-readme-stats)
