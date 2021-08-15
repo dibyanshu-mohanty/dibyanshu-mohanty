@@ -7,10 +7,7 @@
 <p align="center"> Hi, I am an Undergraduate Student from VIT , Vellore pursuing Btech in Electronics And Instrumentation Engineering. I am a keen and enthusiastic learner, skilled in Web Development. Interests: App Development and Blockchain. </p>
 
 <h3> Skills: 
-- HTML
-  CSS
-  JavaScript
-  BootStrap
+(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 </h3>
 
 <h3> College: Vellore Institute of Technology, Vellore </h3> <br />
