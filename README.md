@@ -1,6 +1,6 @@
 <h1 align="center">Hello There ⌨,I am Dibyanshu Mohanty </h1>
 
-<h3 align="center">Developer</h3>
+<h3 align="center">Developer and Content Curator</h3>
 
 ![](https://technosoftacademy.io/wp-content/uploads/2018/08/web-developement-banner.png)
 
