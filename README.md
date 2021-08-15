@@ -2,12 +2,19 @@
 
 <h3 align="center">Developer and Content Curator</h3>
 
-![](https://technosoftacademy.io/wp-content/uploads/2018/08/web-developement-banner.png)
+<h3 align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E16AQHzrgiBkSB5ZA/profile-displaybackgroundimage-shrink_350_1400/0/1624878294966?e=1634774400&v=beta&t=l2qLkeVnmvT8F61xnU9C1KyKe9GE9dssumyALmTSrl8"></h3>
 
-<p align="center"> Hi, I am an EEE Undergraduate Student from VIT , Vellore. Flutter Developer | Web Developer | Blockchain Researcher</p>
+<h3 align="center"> Hi, I am an EEE Undergraduate Student from VIT , Vellore </h3>
 
+<h3 align="center"> Flutter Developer | Web Developer | Blockchain Researcher | 💚-build Developer | Ideate, Innovate & Build </h3>
 
-<h3> Skills: 
+<h2 align="center"> Portfolio Website </h2>
+
+<h3 align="center"><a href="https://dibyanshu-mohanty.me"> Dibyanshu Mohanty </a></h3>
+
+<h2 align = "center"> Skills: </h2>
+
+<h3> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
@@ -21,11 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">     
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 </h3>
-
-
-<h3>I’m currently working on Flutter Dev</h3>
-
-<h3>💚-build Developer. Ideate, Innovate & Build</h3>
 
 <h2 align="center">Connect With Me On</h2>
 
