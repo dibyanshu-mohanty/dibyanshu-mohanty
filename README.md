@@ -6,7 +6,12 @@
 
 <p align="center"> Hi, I am an Undergraduate Student from VIT , Vellore pursuing Btech in Electronics And Instrumentation Engineering. I am a keen and enthusiastic learner, skilled in Web Development. Interests: App Development and Blockchain. </p>
 
-<h3> Skills: HTML, CSS, Django, Bootstrap, Python(Language), Javascript, Flutter, Firebase, Postgresql, Android Studio</h3>
+<h3> Skills: 
+- HTML
+  CSS
+  JavaScript
+  BootStrap
+</h3>
 
 <h3> College: Vellore Institute of Technology, Vellore </h3> <br />
 
