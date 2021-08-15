@@ -1,10 +1,11 @@
 <h1 align="center">Hello There ⌨,I am Dibyanshu Mohanty </h1>
 
-<h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 | Flutter Developer 📱 </h3>
+<h3 align="center">Developer</h3>
 
 ![](https://technosoftacademy.io/wp-content/uploads/2018/08/web-developement-banner.png)
 
-<p align="center"> Hi, I am an Undergraduate Student from VIT , Vellore pursuing Btech in Electronics And Instrumentation Engineering. I am a keen and enthusiastic learner, skilled in Web Development. Interests: App Development and Blockchain. </p>
+<p align="center"> Hi, I am an EEE Undergraduate Student from VIT , Vellore. Flutter Developer | Web Developer | Blockchain Researcher</p>
+
 
 <h3> Skills: 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -21,9 +22,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 </h3>
 
-<h3> College: Vellore Institute of Technology, Vellore </h3> <br />
-
-<h2 align="left"> What I am Doing? </h2>
 
 <h3>I’m currently working on Flutter Dev</h3>
 
