@@ -31,7 +31,7 @@
 
 <h2 align="center">Connect With Me On</h2>
 
-<a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dibyanshu-mohanty-37a2b71b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://ddevm.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://twitter.com/DcodeM" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
