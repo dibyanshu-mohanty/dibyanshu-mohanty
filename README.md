@@ -6,7 +6,7 @@
 
 <h3 align="center"> Hi, I am an EEE Undergraduate Student from VIT , Vellore </h3>
 
-<h3 align="center"> Flutter Developer | Web Developer | Blockchain Researcher | 💚-build Developer | Ideate, Innovate & Build </h3>
+<h3 align="center"> Flutter Developer | Web Developer | Blockchain Researcher | 💚-build Developer | Ideate, Innovate & Build | Building cool suff with App</h3>
 
 <h2 align="center"> Portfolio Website </h2>
 
