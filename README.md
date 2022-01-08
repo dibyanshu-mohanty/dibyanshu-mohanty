@@ -1,39 +1,48 @@
-<h1 align="center">Hi 👋, I'm Dibyanshu Mohanty</h1>
-<h3 align="center">I am a Flutter Developer & A passionate Frontend Web Developer</h3>
+<h1 align="center">Hola , I am Dibyanshu Mohanty</h1>
+<h3 align="center"> You Friendly Neighbourhood Developer ✅</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-mohanty" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-mohanty" /> </p>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🚩 I love collaborating on **Flutter Projects**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🚩 I am currently learning **Blockchain Technology**
 
-- 👯 I’m looking to collaborate on **Cross Platforms apps**
+- 🚩 Ask me about **Blockchain / Flutter / Firebase** 
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🚩 I’m looking for good help with **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://dibyanshu-mohanty.me](https://dibyanshu-mohanty.me)
+- 🚩 Portfolio : [https://dibyanshu-mohanty.me](https://dibyanshu-mohanty.me)
 
-- 💬 Ask me about **Flutter, Frontend, Firebase, Dart**
+- 🚩 Passionate about **Ideation / Startups / Investing**
 
-- 📫 How to reach me **dibyanshu.m2002@gmail.com**
+- 🚩 How to reach me **dibyanshu.m2002@gmail.com**
 
-- ⚡ Fun fact **I am video game geek !**
+- 🚩 Not so Fun Fact **I love playing Video Games !**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dcodem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcodem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dibyanshu-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyanshu-mohanty" height="30" width="40" /></a>
-<a href="https://medium.com/@ddevm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ddevm" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/dcodem" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="dcodem"/></a> <a href="https://linkedin.com/in/dibyanshu-mohanty" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dibyanshu-mohanty"/></a> <a href="https://medium.com/@ddevm" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@ddevm"/></a> <a href="https://discordapp.com/users/743505078094397522" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Frameworks:</h3>
+<p align="center"><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/> </a> <a href="https://ethereum.org/en/dapps/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a></p>
+
+<h3 align = "left"> Code Editors </h3>
+<p align = "center" >
+<a href = "https://developer.android.com/studio" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a><a href = "https://code.visualstudio.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a><a href = "https://atom.io/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom"></a>
+</p>
+
+<h3 align = "left"> Hobbies</h3>
+<p align = "center" >
+<a href = "https://playvalorant.com/en-us/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Valorant"></a><a href = "https://www.spotify.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a><a href = "https://youtube.com" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a><a href = "https://coindcx.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="YouTube"></a><a href = "https://udemy.com" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="YouTube"></a>
+</p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ddevm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ddevm" /></a></p>
+<p><a href="https://www.buymeacoffee.com/ddevm"> <img align="left" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="ddevm" /></a></p>
 
 <br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyanshu-mohanty" alt="dibyanshu-mohanty" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyanshu-mohanty&show_icons=true&locale=en&layout=compact" alt="dibyanshu-mohanty" /></p>
-<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyanshu-mohanty&show_icons=true&locale=en" alt="dibyanshu-mohanty" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu-mohanty" alt="dibyanshu-mohanty" /></p>
