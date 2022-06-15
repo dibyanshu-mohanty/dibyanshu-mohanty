@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hola , I am Dibyanshu Mohanty</h1>
 <h3 align="center"> You Friendly Neighbourhood Developer ✅</h3> -->
 
- ![Colorful Animation Tutorial Yotube Thumbnail](https://user-images.githubusercontent.com/72657275/173874584-51bd5e00-2804-4293-b918-f2111fe40ceb.gif)
+ ![Colorful Animation Tutorial Yotube Thumbnail](https://user-images.githubusercontent.com/72657275/173875165-5e51f29d-217b-44f0-9f59-e44b13bb0ce6.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-mohanty" /> </p>
 
