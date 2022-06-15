@@ -1,5 +1,7 @@
-<h1 align="center">Hola , I am Dibyanshu Mohanty</h1>
-<h3 align="center"> You Friendly Neighbourhood Developer ✅</h3>
+<!-- <h1 align="center">Hola , I am Dibyanshu Mohanty</h1>
+<h3 align="center"> You Friendly Neighbourhood Developer ✅</h3> -->
+
+ <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="YouTube"></a>![Colorful Animation Tutorial Yotube Thumbnail](https://user-images.githubusercontent.com/72657275/173874584-51bd5e00-2804-4293-b918-f2111fe40ceb.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-mohanty" /> </p>
 
@@ -34,7 +36,7 @@
 
 <h3 align = "left"> Hobbies</h3>
 <p align = "center" >
-<a href = "https://playvalorant.com/en-us/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Valorant"></a><a href = "https://www.spotify.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a><a href = "https://youtube.com" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a><a href = "https://coindcx.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="YouTube"></a><a href = "https://udemy.com" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="YouTube"></a>
+<a href = "https://playvalorant.com/en-us/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="Valorant"></a><a href = "https://www.spotify.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a><a href = "https://youtube.com" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a><a href = "https://coindcx.com/" target = "_blank" rel="noreferrer"> <img src ="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="YouTube"></a><a href = "https://udemy.com" target = "_blank" rel="noreferrer">
 </p>
 
 <h3 align="left">Support:</h3>
