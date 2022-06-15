@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hola , I am Dibyanshu Mohanty</h1>
 <h3 align="center"> You Friendly Neighbourhood Developer ✅</h3> -->
 
- <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="YouTube"></a>![Colorful Animation Tutorial Yotube Thumbnail](https://user-images.githubusercontent.com/72657275/173874584-51bd5e00-2804-4293-b918-f2111fe40ceb.gif)
+ ![Colorful Animation Tutorial Yotube Thumbnail](https://user-images.githubusercontent.com/72657275/173874584-51bd5e00-2804-4293-b918-f2111fe40ceb.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-mohanty" /> </p>
 
