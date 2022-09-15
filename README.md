@@ -13,7 +13,7 @@
 
 - 🚩 I’m looking for good help with **ReactJS**
 
-- 🚩 Portfolio : [https://dibyanshu.me/Portfolio](https://dibyanshu.me/Portfolio)
+- 🚩 Portfolio : [https://dibyanshu.me](https://dibyanshu.me)
 
 - 🚩 Passionate about **Ideation / Startups / Investing**
 
