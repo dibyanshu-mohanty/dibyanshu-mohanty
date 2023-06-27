@@ -7,7 +7,7 @@
 
 - 🚩 I love collaborating on **Flutter Projects**
 
-- 🚩 I am currently learning **Blockchain Technology**
+- 🚩 I am currently learning **Something in Tech**
 
 - 🚩 Ask me about **Blockchain / Flutter / Firebase** 
 
