@@ -17,8 +17,6 @@
 
 - 🚩 Passionate about **Ideation / Startups / Investing**
 
-- 🚩 How to reach me **dibyanshu.m2002@gmail.com**
-
 - 🚩 Not so Fun Fact **I love playing Video Games !**
 
 <h3 align="left">Connect with me:</h3>
