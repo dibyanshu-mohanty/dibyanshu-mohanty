@@ -5,19 +5,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dibyanshu-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshu-mohanty" /> </p>
 
-- 🚩 I love collaborating on **Flutter Projects**
+- 🎯 I love collaborating on **Anything**
 
-- 🚩 I am currently learning **Something in Tech**
+- 🎯 I am currently learning **Everything**
 
-- 🚩 Ask me about **Blockchain / Flutter / Firebase** 
+- 🎯 Ask me about **Product / Fintech / Engineering** 
 
-- 🚩 I’m looking for good help with **ReactJS**
+- 🎯 I’m looking for good help with **ReactJS**
 
-- 🚩 Portfolio : [https://dibyanshu.me](https://dibyanshu.me)
+- 🎯 Reach out to me over **dibyanshu.m2002@gmail.com**
 
-- 🚩 Passionate about **Ideation / Startups / Investing**
+- 🎯 Portfolio : [https://diby.dev](https://diby.dev)
 
-- 🚩 Not so Fun Fact **I love playing Video Games !**
+- 🎯 Passionate about **Ideation / Startups / Investing**
+
+- 🎯 Not so Fun Fact **I love playing Video Games !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
