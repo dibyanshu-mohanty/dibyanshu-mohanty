@@ -13,8 +13,6 @@
 
 - 🎯 I’m looking for good help with **ReactJS**
 
-- 🎯 Reach out to me over **dibyanshu.m2002@gmail.com**
-
 - 🎯 Portfolio : [https://diby.dev](https://diby.dev)
 
 - 🎯 Passionate about **Ideation / Startups / Investing**
